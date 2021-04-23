@@ -18,32 +18,32 @@ body{
 
 .coluna{
   position: absolute; 
-	left: 25%; /* posiciona a 90px para a esquerda */ 
-	top: 0%; /* posiciona a 70px para baixo */
+	left: 25%; /* posiciona a 25% para a esquerda */ 
+	top: 0%; /* posiciona a 0% para baixo */
   height: 94.7%;
   border: 20px solid black;
 }
 
 .coluna2{
   position: absolute; 
-	left: 73%; /* posiciona a 90px para a esquerda */ 
-	top: 0%; /* posiciona a 70px para baixo */
+	left: 73%; /* posiciona a 73% para a esquerda */ 
+	top: 0%; /* posiciona a 0% para baixo */
   height: 94.7%;
   border: 20px solid black;
 }
 
 .ladoA{
   position: absolute; 
-	left: 0%; /* posiciona a 90px para a esquerda */ 
-	top: 0%; /* posiciona a 70px para baixo */
+	left: 0%;  
+	top: 0%; 
   width: 25%;
   height: 100%;
 }
 
 .ladoB{
   position: absolute; 
-	left: 75%; /* posiciona a 90px para a esquerda */ 
-	top: 0%; /* posiciona a 70px para baixo */
+	left: 75%; /* posiciona a 75% para a esquerda */ 
+	top: 0%; /* posiciona a 0% para baixo */
   width: 25%;
   height: 100%;
 }
