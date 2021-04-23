@@ -1,0 +1,49 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(44, 139, 44);
+    background-color: rgb(215, 195, 168);
+}
+
+.tela{
+  border-width: 6px;
+  border-style: ridge;
+  border-color: rgb(164, 86, 86);
+  background-color: white;
+}
+
+.coluna{
+  position: absolute; 
+	left: 25%; /* posiciona a 90px para a esquerda */ 
+	top: 0%; /* posiciona a 70px para baixo */
+  height: 94.7%;
+  border: 20px solid black;
+}
+
+.coluna2{
+  position: absolute; 
+	left: 73%; /* posiciona a 90px para a esquerda */ 
+	top: 0%; /* posiciona a 70px para baixo */
+  height: 94.7%;
+  border: 20px solid black;
+}
+
+.ladoA{
+  position: absolute; 
+	left: 0%; /* posiciona a 90px para a esquerda */ 
+	top: 0%; /* posiciona a 70px para baixo */
+  width: 25%;
+  height: 100%;
+}
+
+.ladoB{
+  position: absolute; 
+	left: 75%; /* posiciona a 90px para a esquerda */ 
+	top: 0%; /* posiciona a 70px para baixo */
+  width: 25%;
+  height: 100%;
+}
